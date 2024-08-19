@@ -1,5 +1,6 @@
 # Efficient Image-to-Label Diffusion Classifier for Adversarial Robustness
 
+arxiv:https://arxiv.org/pdf/2408.08502
 **Hefei Mei, Minjing Dong, Chang Xu**
 
 <div align="center">
