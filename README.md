@@ -1,4 +1,4 @@
-# Efficient Image-to-Label Diffusion Classifier for Adversarial Robustness
+# Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness
 
 arxiv:https://arxiv.org/pdf/2408.08502
 
